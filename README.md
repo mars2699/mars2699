@@ -6,4 +6,4 @@
 
 ~ Special interests: machine learning, Arduino, aerospace-related projects
 
-~ Favorite language: Python ^_^
+~ Favorite language: Python
