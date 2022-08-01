@@ -1,9 +1,9 @@
-~ B.S. Computational Mathematics '22
+:books: B.S. Computational Mathematics '22
 
-~ Currently an engineer in the aerospace industry
+:airplane: Currently an engineer in the aerospace industry
 
-~ Now learning Java!
+:computer: Now learning Java!
 
-~ Special interests: machine learning, Arduino, aerospace-related projects
+:mag: Special interests: machine learning, Arduino, aerospace-related projects
 
-~ Favorite language: Python
+:snake: Favorite language: Python
