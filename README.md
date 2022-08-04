@@ -2,7 +2,7 @@
 
 :airplane: Currently an engineer in the aerospace industry
 
-:computer: Now learning Java!
+:computer: Expanding my knowledge of data analytics and Apache Spark
 
 :mag: Special interests: machine learning, Arduino, aerospace-related projects
 
