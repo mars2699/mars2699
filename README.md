@@ -6,4 +6,4 @@
 
 :snake: Favorite language: Python
 
-:musicalnote: Fun fact: I play the harmonica!
+:musical_note: Fun fact: I play the harmonica!
