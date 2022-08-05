@@ -4,6 +4,6 @@
 
 :computer: Expanding my knowledge of data analytics and Apache Spark
 
-:mag: Special interests: machine learning, Arduino, aerospace-related projects
-
 :snake: Favorite language: Python
+
+:musicalinstrument: Fun fact: I play the harmonica!
