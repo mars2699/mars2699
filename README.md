@@ -2,7 +2,7 @@
 
 :airplane: Currently an engineer in the aerospace industry
 
-:computer: Expanding my knowledge of data analytics and Apache Spark
+:computer: Expanding my knowledge of machine learning, data analytics, and Apache Spark
 
 :snake: Favorite language: Python
 
