@@ -4,6 +4,6 @@
 
 :computer: Expanding my knowledge of machine learning, data analytics, and Apache Spark
 
-:snake: Languages: Python, C, MATLAB 
+:snake: Languages: Python, C, C++, MATLAB 
 
 :musical_note: Fun fact: I play the harmonica!
